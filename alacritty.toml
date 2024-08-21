@@ -11,13 +11,9 @@ startup_mode = "Maximized"
 
 decorations = "Buttonless"
 
-opacity = 0.2
-blur = true
-
-
 [font]
-normal.family = "JetBrainsMono Nerd Font"
-# normal.family = "FiraMono Nerd Font"
+# normal.family = "JetBrainsMono Nerd Font"
+normal.family = "FiraMono Nerd Font"
 size = 20
 
 [cursor]

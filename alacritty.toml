@@ -29,17 +29,25 @@ save_to_clipboard = true
 [mouse]
 hide_when_typing = true
 
-
 [colors.primary]
-foreground = '0xdcd7ba'
-background = '0x1f1f28'
+background = '0x282828'
+foreground = '0xd4be98'
 
 [colors.normal]
-black = '0x090618'
-red = '0xc34043'
-green = '0x76946a'
-yellow = '0xc0a36e'
-blue = '0x7e9cd8'
-magenta = '0x957fb8'
-cyan = '0x6a9589'
-white = '0xc8c093'
+black = '0x3c3836'
+red = '0xea6962'
+green = '0xa9b665'
+yellow = '0xd8a657'
+blue = '0x7daea3'
+magenta = '0xd3869b'
+cyan = '0x89b482'
+white = '0xd4be98'
+[colors.bright]
+black = '0x3c3836'
+red = '0xea6962'
+green = '0xa9b665'
+yellow = '0xd8a657'
+blue = '0x7daea3'
+magenta = '0xd3869b'
+cyan = '0x89b482'
+white = '0xd4be98'

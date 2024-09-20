@@ -15,7 +15,7 @@ decorations = "Buttonless"
 # normal.family = "JetBrainsMono Nerd Font"
 # normal.family = "FiraMono Nerd Font"
 normal.family = "SauceCodePro Nerd Font"
-size = 21
+size = 18
 
 [cursor]
 style.shape = "Block"

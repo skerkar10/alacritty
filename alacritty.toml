@@ -12,11 +12,11 @@ startup_mode = "Maximized"
 decorations = "Buttonless"
 
 [font]
-# normal.family = "JetBrainsMono Nerd Font"
+normal.family = "JetBrainsMono Nerd Font"
 # normal.family = "FiraMono Nerd Font"
 # normal.family = "SauceCodePro Nerd Font"
-normal.family = "MesloLGS NF"
-size = 18.3
+# normal.family = "MesloLGS NF"
+size = 19
 
 [cursor]
 style.shape = "Block"

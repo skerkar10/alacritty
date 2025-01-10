@@ -1,5 +1,5 @@
 general.import = [
-  "~/.config/alacritty/catppuccin-mocha.toml"
+  "~/.config/alacritty/dracula.toml"
 ]
 
 general.live_config_reload = false
@@ -19,11 +19,11 @@ startup_mode = "Maximized"
 decorations = "Buttonless"
 
 [font]
-normal.family = "JetBrainsMono Nerd Font"
-# normal.family = "BlexMono Nerd Font"
+# normal.family = "JetBrainsMono Nerd Font"
+normal.family = "BlexMono Nerd Font"
 # normal.family = "UbuntuMono Nerd Font"
 # normal.family = "Berkeley Mono Trial"
-size = 20
+size = 18
 # size = 23
 
 [cursor]

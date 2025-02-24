@@ -1,6 +1,6 @@
-general.import = [
-  "~/.config/alacritty/gruber-darker.toml"
-]
+# general.import = [
+#   "~/.config/alacritty/gruber-darker.toml"
+# ]
 
 general.live_config_reload = false
 
@@ -19,11 +19,10 @@ startup_mode = "Maximized"
 decorations = "Buttonless"
 
 [font]
-# normal.family = "JetBrainsMono Nerd Font"
+normal.family = "JetBrainsMono Nerd Font"
 # normal.family = "BlexMono Nerd Font"
 # normal.family = "CodeNewRoman Nerd Font"
-normal.family = "Iosevka Nerd Font"
-# size = 19
+# normal.family = "Iosevka Nerd Font"
 size = 21
 
 [cursor]
@@ -37,3 +36,29 @@ save_to_clipboard = true
 
 [mouse]
 hide_when_typing = true
+
+#Andromeda
+[colors.primary]
+# background= "0x2b2d3a"
+background= "#000000"
+foreground= "0xe1e3e4"
+
+[colors.normal]
+black= "0x181a1c"
+red= "0xfb617e"
+green= "0x9ed06c"
+yellow= "0xedc763"
+blue= "0x6dcae8"
+magenta= "0xbb97ee"
+cyan= "0xf89860"
+white= "0xe1e3e4"
+
+[colors.bright]
+black= "0x7e8294"
+red= "0xfb617e"
+green= "0x9ed06c"
+yellow= "0xedc763"
+blue= "0x6dcae8"
+magenta= "0xbb97ee"
+cyan= "0xf89860"
+white= "0xe1e3e4"
